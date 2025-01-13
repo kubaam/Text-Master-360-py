@@ -82,6 +82,16 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+---
+
+## **Support and Contributions** 🤝  
+
+Feel free to contribute or report bugs via GitHub. Pull requests are welcome!  
+If you appreciate this tool, you can support its development by donating here:  
+[**PayPal - Jakub Ambrus**](https://paypal.me/JakubAmbrus)  
+
+---
+
 ## 📄 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
