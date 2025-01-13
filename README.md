@@ -1,8 +1,8 @@
 # Text Processing Tool 🚀
 
-![GitHub](https://img.shields.io/github/license/yourusername/text-processing-tool)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/text-processing-tool)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/text-processing-tool)
+![GitHub](https://img.shields.io/github/license/kubaam/Text-Master-360-py)
+![GitHub issues](https://img.shields.io/github/issues/kubaam/Text-Master-360-py)
+![GitHub stars](https://img.shields.io/github/stars/kubaam/Text-Master-360-py)
 
 Welcome to the **Text Processing Tool** – a modern, multi-functional GUI application built with Python and Tkinter, designed for efficient text file processing. This tool allows you to manage `.txt` files, remove duplicate lines and words, and filter out lines containing specific words, all in a sleek, user-friendly interface. 🎉
 
@@ -38,18 +38,16 @@ Built with modular functions and a modern GUI using `ttk.Notebook`, this tool is
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/text-processing-tool.git
-   cd text-processing-tool
+   git clone https://github.com/kubaam/Text-Master-360-py.git
+   cd Text-Master-360-py
    ```
 2. **Install dependencies:**
    - This tool uses only Python's standard library, so no additional packages are required beyond Python itself. 👍
 
 3. **Run the application:**
    ```bash
-   python your_script_name.py
+   python main.py
    ```
-
-*Note: Replace `your_script_name.py` with the actual filename of the script.*
 
 ## 🛠️ Usage
 
@@ -76,7 +74,7 @@ The tool processes the files selected in the **TXT Files** tab, applying the cho
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/text-processing-tool/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/Text-Master-360-py/issues) if you want to contribute.
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
