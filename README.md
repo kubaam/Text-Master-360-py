@@ -1,6 +1,3 @@
-Here's the updated `README.md` with your name "Ambry" included and a modern, CEO-optimized style with emojis and cool formatting:
-
-```markdown
 # Text Processing Tool 🚀
 
 ![GitHub](https://img.shields.io/github/license/yourusername/text-processing-tool)
@@ -98,4 +95,3 @@ Made with ❤️ by [Ambry](https://github.com/kubaam) 🎨✨
 *Optimize your workflow and make text processing a breeze with this powerful tool!* 🚀🌟
 ```
 
-Feel free to customize the repository URL, script name, and other placeholders (like `yourusername`) with your actual GitHub username and project details. This `README.md` is designed to be eye-catching, informative, and optimized for a CEO-level presentation with emojis and clean formatting.
